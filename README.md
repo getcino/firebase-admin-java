@@ -4,6 +4,9 @@
 
 # Firebase Admin Java SDK
 
+**This is a Cino fork**.
+To build dependency jar, sync with the latest release tag and execute: `./mvnw clean package -Dmaven.test.skip`
+
 ## Table of Contents
 
  * [Overview](#overview)
